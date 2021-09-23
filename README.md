@@ -1,10 +1,10 @@
-# Team Name
+# RPGeniuses
 
-Project description (~1 paragraph)
+First-Person RPG dungeon-crawler built in Unity. 
 
 ## Team Members and Roles
 
-* Member 1 (Role 1, Role 2)
+* [Thomas Gidus (Role: Forker)](https://github.com/dgidus/CIS350-HW2-Gidus)
 * Member 2 (Role 3, Role 4)
 * Member 3 (Role 5, Role 6)
 
