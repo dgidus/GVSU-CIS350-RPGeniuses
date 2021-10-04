@@ -1,6 +1,6 @@
 # CIS350 Project Meeting Notes
 
-Team name: RPGeniuses
+Team name: RPGeniuses     
 
 
 Members present: Thomas Gidus, Jazz Finney, Wilson Armstrong, Aidan Takace, Thanh Tran
