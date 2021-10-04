@@ -1,26 +1,27 @@
-# CIS350 Meeting Instructions
-
-Hold a team meeting at least once a week in some format.  Copy the following template below into a new document, naming it GVSU-CIS350-TEAMNAME-YYYY-MM-DD (replacing TEAMNAME with your team's name and the appropriate date fields).  Commit it to this folder, ensuring it is up by each Sunday by 11:59pm.  There should be a unique document for each meeting held.
-
-## Meeting minutes template
+# CIS350 Project Meeting Notes
 
 Team name: RPGeniuses
 
-Members present:
+
+Members present: Thomas Gidus, Jazz Finney, Wilson Armstrong, Aidan Takace, Thanh Tran
+
 
 Date: 10/3/2021
 
-Time:
+Time: 6:45 - 8:00
 
 Discussion points: 
 
-*
-*
-*
+* Game requirements
+* Game ideas
+* Refining our scope
+* Why Halo 3 is the best Halo
+
 
 Goals for next week (include responsibilities)
 
-*
-*
-*
+* Work on use case diagrams individually
+* Work on individual requirements (3 functional, 3 non-functional)
+* Complete Unity FPS Microgame tutorial individually
+* Goole Doc? Talk to Prof. Fredericks
 
