@@ -30,7 +30,11 @@ This game will be a first-person RPG dungeon-crawler with a singleplayer focus. 
 	2. The game shall have ability for host to require a server password.
 	3. The game shall have ability for host to set limit on number of players allowed on the server at once.
 
-    		 
+4. Should have visual cues of status of character and surrounding enemies
+	1. The game shall allow players to view their status of health and mana at all times during gameplay
+	2. The game shall notify players of damage to their character in the form of a sound and flash of red
+
+    		
 
 ## Non-Functional Requirements 
  
@@ -39,7 +43,11 @@ This game will be a first-person RPG dungeon-crawler with a singleplayer focus. 
 	2. The game shall be playable in a Windows 7+ environment. 
 	3. The game shall be playable in a Linux environment. 
 
-2. Should have system requirements.
+2. Should have system requirements
 	1. The game shall be able to run on 4 GB RAM.
 	2. The game shall be able to run on 512MB VRAM.
 	3. The game shall require no more than 10 GB of storage.
+
+3. Should have streamline performance
+	1. The game shall limit the maximum number of clicks for any singular function to five(5) or less
+	2. The game shall limit the average response time between click and reaction to 0.5 seconds or less
