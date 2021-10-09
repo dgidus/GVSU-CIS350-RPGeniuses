@@ -33,7 +33,12 @@ This game will be a first-person RPG dungeon-crawler with a singleplayer focus. 
 4. Should have visual cues of status of character and surrounding enemies
 	1. The game shall allow players to view their status of health and mana at all times during gameplay
 	2. The game shall notify players of damage to their character in the form of a sound and flash of red
+	3. Once damaged, the enemy's remaining health shall be visible as a health bar above their model.
 
+5. Should have enemies which use a predefined AI
+	1. Enemies shall have a "spotting range", a vicinity the player must be within for the enemy to recognize the player and 	   	   approach them.
+	2. Enemies shall have an "attack range", a vicinity the player must be within before the enemy will start attacking.
+		1. The "attack range" shall be a small vicinity than the "spotting range".
     		
 
 ## Non-Functional Requirements 
