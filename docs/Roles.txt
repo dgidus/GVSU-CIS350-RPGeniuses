@@ -3,14 +3,14 @@
         -Art: textures, graphics, biomes, particles
             {}
         -Items: weapons, armor, potions(buff/heal), poisons(debuff/damage), currency, accessories, skins
-            {}
+            {Thanh}
         -Story: lore, descriptions, backgrounds
-            {}
+            {Aidan}
         -Sounds: music, sfx, voices
             {}
         -Combat: skills, abilities, ranged, melee
-            {}
+            {Wilson}
         -Classes: Mage, Rogue, Ranger, Warrior, Cleric
-            {}
+            {Aidan}
         -Creatures: Players, monsters, NPCs
             {}
