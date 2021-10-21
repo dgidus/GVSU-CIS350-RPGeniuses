@@ -1,9 +1,9 @@
         -UI: menus, vendors, class selections, pop-up, dialogue
-            {}         
+            {Jazz}         
         -Art: textures, graphics, biomes, particles
             {}
         -Items: weapons, armor, potions(buff/heal), poisons(debuff/damage), currency, accessories, skins
-            {Thanh}
+            {Thanh, Jazz}
         -Story: lore, descriptions, backgrounds
             {Aidan}
         -Sounds: music, sfx, voices
