@@ -81,7 +81,7 @@ This section is meant to detail the project timeline, present the tasks required
 ## Use Case Diagrams
  
 * [Enemy-Player Interaction](../artifacts/use_case_diagrams/CIS350UseCaseExtended.pdf)
-* [Player-Shop Interaction](../artifacts/use_case_diagrams/CIS350UseCase(1).pdf)
+* [Player-Shop Interaction](../artifacts/use_case_diagrams/CIS350UseCase%(1).pdf)
 * [Player-Skill System Interaction](../artifacts/use_case_diagrams/APT_skull_usecase.jpg)
 
 ## Project Schedule
@@ -91,5 +91,5 @@ This section is meant to detail the project timeline, present the tasks required
 
 ## Project Proposal
 
-* [Project Proposal](proposal-template)
-* [Project Proposal Presentation](CIS350_RPGenius_Proposal_Presentation)
+* [Project Proposal](proposal-template.md)
+* [Project Proposal Presentation](CIS350_RPGenius_Proposal_Presentation.pdf)
