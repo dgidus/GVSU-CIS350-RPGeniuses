@@ -5,7 +5,6 @@ This game will be a first-person RPG dungeon-crawler with a singleplayer focus. 
  
 # Software Requirements 
  
-<Describe the structure of this section>
 This section is composed of two main categories: Functional requirements and Nonfunctional requirements.
 Further, each set of functional and nonfunctional requirements is composed of subcategories which focus on similar game-design aspects. 
 Each subcategory is composed of game features.
@@ -76,7 +75,21 @@ Each game feature is composed of detailed and specific requirements.
 | NFR2 | The game shall be playable within a WebGL-supported internet browser | 
 
 # Software Artifacts 
+
+This section is meant to detail the project timeline, present the tasks required to complete the project, and provide supporting diagrams to better understand some of the features presented above.
+
+## Use Case Diagrams
  
-<Describe the purpose of this section> 
- 
-* [I am a link](to_some_file.pdf)
+* [Enemy-Player Interaction](artifacts/use_case_diagrams/CIS350UseCaseExtended.pdf)
+* [Player-Shop Interaction](artifacts/use_case_diagrams/CIS350UseCase(1).pdf)
+* [Player-Skill System Interaction](artifacts/use_case_diagrams/APT_skull_usecase.jpg)
+
+## Project Schedule
+
+* [Gantt Chart Project Timeline](docs/CIS350_Project_Gantt_Chart.pdf)
+* [Project Tasklist](docs/projectschedule_and_tasklist.md)
+
+## Project Proposal
+
+* [Project Proposal](docs/proposal-template)
+* [Project Proposal Presentation](docs/CIS350_RPGenius_Proposal_Presentation)
