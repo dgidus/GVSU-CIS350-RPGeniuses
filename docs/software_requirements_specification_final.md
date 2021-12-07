@@ -80,16 +80,16 @@ This section is meant to detail the project timeline, present the tasks required
 
 ## Use Case Diagrams
  
-* [Enemy-Player Interaction](artifacts/use_case_diagrams/CIS350UseCaseExtended.pdf)
-* [Player-Shop Interaction](artifacts/use_case_diagrams/CIS350UseCase(1).pdf)
-* [Player-Skill System Interaction](artifacts/use_case_diagrams/APT_skull_usecase.jpg)
+* [Enemy-Player Interaction](../artifacts/use_case_diagrams/CIS350UseCaseExtended.pdf)
+* [Player-Shop Interaction](../artifacts/use_case_diagrams/CIS350UseCase(1).pdf)
+* [Player-Skill System Interaction](../artifacts/use_case_diagrams/APT_skull_usecase.jpg)
 
 ## Project Schedule
 
-* [Gantt Chart Project Timeline](docs/CIS350_Project_Gantt_Chart.pdf)
-* [Project Tasklist](docs/projectschedule_and_tasklist.md)
+* [Gantt Chart Project Timeline](CIS350_Project_Gantt_Chart.pdf)
+* [Project Tasklist](projectschedule_and_tasklist.md)
 
 ## Project Proposal
 
-* [Project Proposal](docs/proposal-template)
-* [Project Proposal Presentation](docs/CIS350_RPGenius_Proposal_Presentation)
+* [Project Proposal](proposal-template)
+* [Project Proposal Presentation](CIS350_RPGenius_Proposal_Presentation)
