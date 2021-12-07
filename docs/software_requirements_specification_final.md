@@ -81,8 +81,8 @@ This section is meant to detail the project timeline, present the tasks required
 ## Use Case Diagrams
  
 * [Enemy-Player Interaction](../artifacts/use_case_diagrams/CIS350UseCaseExtended.pdf)
-* [Player-Shop Interaction](../artifacts/use_case_diagrams/CIS350UseCase%(1).pdf)
-* [Player-Skill System Interaction](../artifacts/use_case_diagrams/APT_skull_usecase.jpg)
+* [Player-Shop Interaction](../artifacts/use_case_diagrams/CIS350UseCase.pdf)
+* [Player-Skill System Interaction](../artifacts/use_case_diagrams/APT_skill_usecase.jpg)
 
 ## Project Schedule
 
