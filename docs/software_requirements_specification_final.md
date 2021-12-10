@@ -33,7 +33,6 @@ Each game feature is composed of detailed and specific requirements.
 | FR4.1 | The game shall have a ranger class |  
 | FR4.2 | The game shall have a warrior class |  
 | FR4.3 | The game shall have a mage class |
-| FR4.4 | The game shall have a rogue class. |
 
 ### User Interface
 
