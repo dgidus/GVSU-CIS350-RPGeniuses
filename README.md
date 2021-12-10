@@ -12,3 +12,6 @@ First-Person RPG dungeon-crawler built in Unity.
 ## Prerequisites
 
 ## Run Instructions
+
+Follow this link to access the current WebGL build of our game (Updated 12/9/21):
+[CIS350FinalGame](https://developer.cloud.unity3d.com/share/share.html?shareId=bydtBAx_oD)
