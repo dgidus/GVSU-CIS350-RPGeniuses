@@ -56,3 +56,7 @@ This game will be a first-person RPG dungeon-crawler with a singleplayer focus. 
 3. The game should have streamline performance
 	1. The game shall limit the maximum number of clicks for any singular function to five(5) or less
 	2. The game shall limit the average response time between click and reaction to 0.5 seconds or less
+
+
+Artifacts:
+https://github.com/dgidus/GVSU-CIS350-RPGeniuses/tree/master/artifacts
