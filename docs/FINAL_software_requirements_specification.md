@@ -68,27 +68,36 @@ Each game feature is composed of detailed and specific requirements.
  
 ## Non-Functional Requirements 
  
-#### The game should be playable within an internet browser  
+#### The game should be responsive 
  
 | ID  | Requirement     |  
 | :-------------: | :----------: |  
 | NFR1 | The game shall be built using the WebGL API |  
 | NFR2 | The game shall be playable within a WebGL-supported internet browser | 
+| NFR3 | The game shall be playable on a Windows 7+ environment | 
+| NFR4 | The game shall use keyboard inputs for user interaction | 
+| NFR5 | The game shall respond immediately to player input | 
 
-#### category 2
+#### The game should be playable on simple machines
  
 | ID  | Requirement     |  
 | :-------------: | :----------: |  
-| NFR1 | na |  
-| NFR2 | na | 
+| NFR6 | The game shall require less than 4GB of RAM to run |  
+| NFR7 | The game shall require less than 512MB of VRAM to run | 
+| NFR8 | The game shall require no more than 10GB of storage | 
+| NFR9 | The game shall run on any current generation CPU's | 
+| NFR10 | The game shall run on any HDMI compatible monitor | 
 
 
-#### category 3
+#### The game should have basic performance
  
 | ID  | Requirement     |  
 | :-------------: | :----------: |  
-| NFR1 | na |  
-| NFR2 | na | 
+| NFR11 | The game shall run at 30fps | 
+| NFR12 | The game shall render 2 chunks at a time | 
+| NFR13 | The game shall have less an 1ms delay between actions performed | 
+| NFR14 | The game shall render in 1080p | 
+| NFR15 | The game shall accept ping no higher than 150ms | 
 
 
 # Software Artifacts 
