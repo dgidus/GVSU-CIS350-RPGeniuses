@@ -22,6 +22,7 @@ Each game feature is composed of detailed and specific requirements.
 | FR2 | Enemies shall have an "attack range", a vicinity the player must be within before the enemy will start attacking. |  
 | FR2.1 | The "attack range" shall be a smaller vicinity than the "spotting range" |  
 | FR3 | Enemies shall have a defined spawn point which they return to if the player leaves the "spotting range" | 
+| FR3.1 | Enemies shall respawn at their specified spawn point after being killed | 
 
 ### Player Behavior
  
@@ -29,10 +30,11 @@ Each game feature is composed of detailed and specific requirements.
  
 | ID  | Requirement     |  
 | :-------------: | :----------: | 
-| FR4 | The game shall have pre-defined classes for the player to select from |  
-| FR4.1 | The game shall have a ranger class |  
-| FR4.2 | The game shall have a warrior class |  
-| FR4.3 | The game shall have a mage class |
+| FR4 | The game shall have pre-defined classes for the player to select from | 
+| FR4.1 | The game shall be able to choose a different class upon each new start |
+| FR4.2 | The game shall have a ranger class |  
+| FR4.3 | The game shall have a warrior class |  
+| FR4.4 | The game shall have a mage class |
 
 ### User Interface
 
@@ -72,6 +74,22 @@ Each game feature is composed of detailed and specific requirements.
 | :-------------: | :----------: |  
 | NFR1 | The game shall be built using the WebGL API |  
 | NFR2 | The game shall be playable within a WebGL-supported internet browser | 
+
+#### category 2
+ 
+| ID  | Requirement     |  
+| :-------------: | :----------: |  
+| NFR1 | na |  
+| NFR2 | na | 
+
+
+#### category 3
+ 
+| ID  | Requirement     |  
+| :-------------: | :----------: |  
+| NFR1 | na |  
+| NFR2 | na | 
+
 
 # Software Artifacts 
 
