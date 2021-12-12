@@ -9,9 +9,8 @@ First-Person RPG dungeon-crawler built in Unity.
 * [Aidan Takace (Role: TBD)](https://github.com/APTAK00/-CIS350-HW2-Takace)
 * [Jazzmin Finney (Role: Team Energizer ..Real role TBD)](https://github.com/JazzminMariah/CIS350-HW2-Finney.git)
 * [Wilson Armstrong (Role: TBD)](https://github.com/Waldokicks/CIS350-HW2-Armstrong)
-## Prerequisites
 
 ## Run Instructions
 
-Follow this link to access the current WebGL build of our game (Updated 12/9/21):
-[CIS350FinalGame](https://developer.cloud.unity3d.com/share/share.html?shareId=bydtBAx_oD)
+Follow this link to access the current WebGL build of our game (Updated 12/11/21):
+[CIS350FinalGame](https://developer.cloud.unity3d.com/share/share.html?shareId=-1NZErnKjw)
